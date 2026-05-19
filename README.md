@@ -59,3 +59,4 @@ print("----------------------------------------------------------------------")
 
 ## Result
 <img width="517" height="311" alt="image" src="https://github.com/user-attachments/assets/062cb36c-5ef3-4514-b206-024cf6fa2763" />
+Thus, the program has been executed successfully and the required parameters have been calculated as per thegivenconditions.
